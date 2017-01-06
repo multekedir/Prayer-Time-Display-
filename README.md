@@ -1,0 +1,2 @@
+# Prayer-Time-Display-
+This program use's the python Athan Time calculation from http://praytimes.org/. It displays the prayer times for Eugene Islamic Center. The Iqama time is entered  on a java program and then saved on iqama.txt. Run the program by executing the  script Run.sh. The script will then run the main class, 'display.py'. To change  the Iqama time run src/Python/display.py and then hit space-bar. For the correct  Iqama display enter time in HH:MM PM/AM format or '+number' to add to the Athan  time.
